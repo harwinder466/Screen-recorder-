@@ -1,0 +1,6 @@
+{
+  "name": "Stitch Recorder - HD Screen & Audio Recorder",
+  "description": "Play Store style high-definition mobile and desktop screen recorder with facecam, live annotation, audio mixing, and HD MP4 export.",
+  "requestFramePermissions": ["camera", "microphone", "display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
